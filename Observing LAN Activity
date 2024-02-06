@@ -1,0 +1,7 @@
+A MAC address is an identifier to a network on what a device is, kind of like a name, each machine's MAC address is different.
+
+You can get a MAC address using wireshark and pinging a network with your machine, as well as using ‘ipconfig /all’.
+
+Wireshark is used to capture packers on a network and analyze them. To use it, simply press the blue shark fin on the top left and ping a network using the command prompt.
+
+To find a protocol in wireshark, look up a packet sent to or by the machine you pinged and analyze the packet.
